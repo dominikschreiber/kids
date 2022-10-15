@@ -1,0 +1,1 @@
+Right now this is a toy project to play with deno and deno deploy. Don't expect anything meaningful.
